@@ -17,7 +17,7 @@ module.exports = defineConfig({
 
     projectId: "3jn4z5",
     "baseUrl": "https://opensource-demo.orangehrmlive.com",
-    "video": true,
+    "video": false,
     //"videosFolder": "cypress/recordedvideos",
     defaultCommandTimeout: 20000, 
     pageLoadTimeout: 120000,
