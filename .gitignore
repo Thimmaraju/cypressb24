@@ -1,0 +1,9 @@
+cypress/downloads
+cypress/recordedvideos
+cypress/reports
+cypress/videos
+cypress/screenshots
+node_modules
+credentials.json
+package-lock.json
+token.json

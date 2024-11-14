@@ -1,0 +1,84 @@
+{
+  "body": {
+    "data": {
+      "empNumber": 253,
+      "lastName": "Teja",
+      "firstName": "Sai",
+      "middleName": "",
+      "employeeId": "hvwzf2q",
+      "terminationId": null
+    },
+    "meta": [],
+    "rels": []
+  },
+  "headers": {
+    "server": "nginx",
+    "date": "Wed, 13 Nov 2024 03:40:33 GMT",
+    "content-type": "application/json",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "no-cache, private",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000; includeSubdomains;",
+    "content-security-policy": "default-src 'self' *.projects-abroad.net fonts.googleapis.com fonts.gstatic.com code.jquery.com maxcdn.bootstrapcdn.com ajax.googleapis.com cdnjs.cloudflare.com native.testing.equest.com www.google.com *.docusign.net www.youtube.com youtu.be player.vimeo.com docs.google.com 'unsafe-inline' 'unsafe-eval' data: font;frame-src 'self' www.youtube.com www.vimeo.com vimeo.com www.yahoo.com www.dailymotion.com www.metacafe.com www.ustream.tv native.testing.equest.com *.orangehrmlive.com *.orangehrm.com *.amazonaws.com;connect-src 'self' *.orangehrm.com *.orangehrmlive.com;worker-src blob: 'self';img-src * 'self' data: blob:",
+    "client_max_body_size": "50M",
+    "public-key-pins": "pin-sha256=\"Md7QJIL/UMqdHaS73pEkLHm5ofUUE35+r4SYdM014/E=\";pin-sha256=\"blgmjf3Tb3C0sUqb7jo4axiZAnr327fX0ycrUGqjw2k=\";pin-sha256=\"puCdyuZdXoDc5jSdcGKU6mdjd0VNq16yoaO2BcDF36A=\";pin-sha256=\"yQhO6YqQX5Y/NxyHAjXnI3jOtYWUm/TtRr666RunXRg=\"; pin-sha256=\"Slt48iBVTjuRQJTjbzopminRrHSGtndY0/sj0lFf9Qk=\"; max-age=63072000; includeSubDomains"
+  },
+  "status": 200,
+  "statusText": "OK",
+  "isOkStatusCode": true,
+  "requestHeaders": {
+    "Connection": "keep-alive",
+    "cookie": "orangehrm=t8nk9ker5anmvuaomri6nsq8ob",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate",
+    "content-type": "application/json",
+    "content-length": 94
+  },
+  "requestBody": "{\"firstName\":\"Sai\",\"middleName\":\"\",\"lastName\":\"Teja\",\"empPicture\":null,\"employeeId\":\"hvwzf2q\"}",
+  "duration": 775,
+  "allRequestResponses": [
+    {
+      "Request Body": "{\"firstName\":\"Sai\",\"middleName\":\"\",\"lastName\":\"Teja\",\"empPicture\":null,\"employeeId\":\"hvwzf2q\"}",
+      "Request Headers": {
+        "Connection": "keep-alive",
+        "cookie": "orangehrm=t8nk9ker5anmvuaomri6nsq8ob",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate",
+        "content-type": "application/json",
+        "content-length": 94
+      },
+      "Request URL": "https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees",
+      "Response Body": {
+        "data": {
+          "empNumber": 253,
+          "lastName": "Teja",
+          "firstName": "Sai",
+          "middleName": "",
+          "employeeId": "hvwzf2q",
+          "terminationId": null
+        },
+        "meta": [],
+        "rels": []
+      },
+      "Response Headers": {
+        "server": "nginx",
+        "date": "Wed, 13 Nov 2024 03:40:33 GMT",
+        "content-type": "application/json",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive",
+        "cache-control": "no-cache, private",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "strict-transport-security": "max-age=31536000; includeSubdomains;",
+        "content-security-policy": "default-src 'self' *.projects-abroad.net fonts.googleapis.com fonts.gstatic.com code.jquery.com maxcdn.bootstrapcdn.com ajax.googleapis.com cdnjs.cloudflare.com native.testing.equest.com www.google.com *.docusign.net www.youtube.com youtu.be player.vimeo.com docs.google.com 'unsafe-inline' 'unsafe-eval' data: font;frame-src 'self' www.youtube.com www.vimeo.com vimeo.com www.yahoo.com www.dailymotion.com www.metacafe.com www.ustream.tv native.testing.equest.com *.orangehrmlive.com *.orangehrm.com *.amazonaws.com;connect-src 'self' *.orangehrm.com *.orangehrmlive.com;worker-src blob: 'self';img-src * 'self' data: blob:",
+        "client_max_body_size": "50M",
+        "public-key-pins": "pin-sha256=\"Md7QJIL/UMqdHaS73pEkLHm5ofUUE35+r4SYdM014/E=\";pin-sha256=\"blgmjf3Tb3C0sUqb7jo4axiZAnr327fX0ycrUGqjw2k=\";pin-sha256=\"puCdyuZdXoDc5jSdcGKU6mdjd0VNq16yoaO2BcDF36A=\";pin-sha256=\"yQhO6YqQX5Y/NxyHAjXnI3jOtYWUm/TtRr666RunXRg=\"; pin-sha256=\"Slt48iBVTjuRQJTjbzopminRrHSGtndY0/sj0lFf9Qk=\"; max-age=63072000; includeSubDomains"
+      },
+      "Response Status": 200
+    }
+  ]
+}
